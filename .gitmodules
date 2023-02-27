@@ -1,3 +1,6 @@
 [submodule "exp10new"]
 	path = exp10new
 	url = https://github.com/Akshay123987/exp10new.git
+[submodule "subdir"]
+	path = subdir
+	url = C:/Program Files/Git/subdir
